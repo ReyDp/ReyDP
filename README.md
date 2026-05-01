@@ -1,16 +1,15 @@
-## Hola! soy Reynaldo Duran 👋
+# 💫 About Me:
+🧑‍💻 Sobre mí<br><br>🎓 Estudiante de Ingeniería de Software (7.º semestre), enfocado en el desarrollo de aplicaciones web robustas y escalables.<br><br>🔭 Actualmente estoy trabajando en:<br>Una agenda académica virtual, diseñada para la gestión eficiente de materias, tareas y organización estudiantil, desarrollada con JavaScript, Node.js y tecnologías frontend modernas.<br><br>👯 Busco colaborar en:<br>Proyectos de código abierto o equipos donde pueda aportar en desarrollo backend/frontend y seguir creciendo técnicamente.<br><br>🤝 Busco ayuda con:<br>Arquitectura de software, escalabilidad y buenas prácticas en sistemas distribuidos.<br><br>🌱 Actualmente estoy aprendiendo:<br>Profundización en backend con Node.js, manejo eficiente de bases de datos con PostgreSQL y mejoras en arquitectura de aplicaciones.<br><br>💬 Pregúntame sobre:<br>JavaScript, Node.js, React, Angular, APIs REST, bases de datos relacionales y control de versiones con Git.<br><br>⚡ Dato curioso:<br>Me interesa entender cómo funcionan las tecnologías internamente, no solo utilizarlas.
 
-<!--
-**ReyDp/ReyDP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ReyDp&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ReyDp&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ReyDp&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://komarev.com/ghpvc/?username=ReyDp&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
